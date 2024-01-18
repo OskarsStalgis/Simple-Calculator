@@ -37,7 +37,7 @@ public class Main {
         System.out.println("Thank you for using Simple Calculator. Good bye!");
     }
 
-    //Again f-cija (Atgriež pie kalkulatora f-cijas vai uz end f-ciju)
+    //Again loop (Atgriež pie kalkulatora f-cijas vai uz end f-ciju)
     public static void again(){
         while(true){
             Scanner scan = new Scanner(System.in);
